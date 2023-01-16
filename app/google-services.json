@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "411834533767",
+    "project_id": "challengetask-ac09f",
+    "storage_bucket": "challengetask-ac09f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411834533767:android:25b14f6311beae9897f522",
+        "android_client_info": {
+          "package_name": "com.ss.challengetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411834533767-bdk5fijv2pc63o5vbgm6sm0jppvlga6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ss.challengetask",
+            "certificate_hash": "a0ac10539b116bc5667d4b6e3016c6cb383a71f2"
+          }
+        },
+        {
+          "client_id": "411834533767-5dq3dsokccmi22orfd0fpdn0k6va744o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7FkXmwUMmkYp0v_5zOdsXsiThMzZ8-QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411834533767-5dq3dsokccmi22orfd0fpdn0k6va744o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
